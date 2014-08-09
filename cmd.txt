@@ -1,0 +1,5 @@
+only City name is printed:
+sed -e "s/<li><[^>]*>\(.*\)<[^>]*><[^>]*>/http:\/\/files\.streets3d\.com\/\1\.dxf\.zip/p; s/<[^>]*><[^>]*>\(.*\)<[^>]*><[^>]*>/<\1>/g; /<.*ul.*>/d" -n .\cities.txt  > cityresult.txt
+
+only Continent name is printed:
+sed -e "s/<li><[^>]*>\(.*\)<[^>]*><[^>]*>/\1/g; s/<[^>]*><[^>]*>\(.*\)<[^>]*><[^>]*>/<\1>/p; /<.*ul.*>/d" -n .\cities.txt  > continentresult.txt

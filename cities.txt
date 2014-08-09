@@ -1,0 +1,262 @@
+<p class="p1"><strong>North America</strong></p>
+<ul>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#atlanta">atlanta</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#austin">austin</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#boston">boston</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#calgary">calgary</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#charlotte">charlotte</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#chattanooga">chattanooga</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#chicago">chicago</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#cincinnati">cincinnati</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#cleveland">cleveland</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#columbus-oh">columbus-oh</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#dallas">dallas</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#dc-baltimore">dc-baltimore</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#denver-boulder">denver-boulder</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#detroit">detroit</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#edmonton">edmonton</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#evansville">evansville</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#grand-rapids-holland-muskegon">grand-rapids-holland-muskegon</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#grassvalley">grassvalley</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#honolulu">honolulu</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#houston">houston</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#humboldt-ca">humboldt-ca</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#indianapolis">indianapolis</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#kamloops">kamloops</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#kansas-city-lawrence-topeka">kansas-city-lawrence-topeka</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#las-vegas">las-vegas</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#lexington">lexington</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#los-angeles">los-angeles</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#louisville">louisville</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#macon-ga">macon-ga</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#madison">madison</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#managua">managua</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#mexico-city">mexico-city</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#miami">miami</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#milwaukee">milwaukee</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#mobile-al">mobile-al</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#montreal">montreal</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#mpls-stpaul">mpls-stpaul</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#nashville">nashville</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#new-orleans">new-orleans</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#new-york">new-york</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#ottawa">ottawa</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#philadelphia">philadelphia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#phoenix">phoenix</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#pittsburgh">pittsburgh</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#port-au-prince">port-au-prince</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#portland">portland</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#portland-me">portland-me</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#reno">reno</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#sacramento">sacramento</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#san-diego-tijuana">san-diego-tijuana</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#san-francisco">san-francisco</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#santa-barbara">santa-barbara</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#santo-domingo">santo-domingo</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#seattle">seattle</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#sf-bay-area">sf-bay-area</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#springfield-mo">springfield-mo</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#st-louis">st-louis</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#state-college-pa">state-college-pa</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#tampa">tampa</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#terre-haute">terre-haute</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#toronto">toronto</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#tucson">tucson</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#vancouver">vancouver</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#victoria">victoria</a></li>
+</ul>
+<p class="p2"><strong style="font-size: 14px;">Europe</strong></p>
+<ul>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#amsterdam">amsterdam</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#asti">asti</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#athens">athens</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#avignon">avignon</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#barcelona">barcelona</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#berlin">berlin</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#bilbao">bilbao</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#birmingham">birmingham</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#bordeaux">bordeaux</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#brno">brno</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#brussels">brussels</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#bucharest">bucharest</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#budapest">budapest</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#cagliari">cagliari</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#cantabria">cantabria</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#cardiff-newport-bristol-bath">cardiff-newport-bristol-bath</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#colchester">colchester</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#copenhagen">copenhagen</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#edinburgh">edinburgh</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#florence">florence</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#frankfurt">frankfurt</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#gdansk">gdansk</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#genoa">genoa</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#gijon">gijon</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#glasgow">glasgow</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#grand-avignon">grand-avignon</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#hamburg">hamburg</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#helsinki">helsinki</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#istanbul">istanbul</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#karlsruhe">karlsruhe</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#kirovograd">kirovograd</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#krakow">krakow</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#kyiv">kyiv</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#la-rochelle">la-rochelle</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#leeds">leeds</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#lille">lille</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#lisbon">lisbon</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#ljubljana">ljubljana</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#london">london</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#lucca">lucca</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#lviv">lviv</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#lyon">lyon</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#madrid">madrid</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#manchester">manchester</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#marseille">marseille</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#matera">matera</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#milan">milan</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#monaco">monaco</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#montpellier">montpellier</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#moscow">moscow</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#munich">munich</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#nantes">nantes</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#newcastle">newcastle</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#nice">nice</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#nuremberg">nuremberg</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#odessa">odessa</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#oslo">oslo</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#palermo">palermo</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#paris">paris</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#pistoia">pistoia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#porto">porto</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#prague">prague</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#reykjavik">reykjavik</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#riga">riga</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#rome">rome</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#rotterdam">rotterdam</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#saint-jean-bonnefonds">saint-jean-bonnefonds</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#samara-tolyatti">samara-tolyatti</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#sarajevo">sarajevo</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#sochi">sochi</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#sofia">sofia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#st-petersburg">st-petersburg</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#stockholm">stockholm</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#strasbourg">strasbourg</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#tampere">tampere</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#toulouse">toulouse</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#trento">trento</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#turin">turin</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#venice">venice</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#vienna">vienna</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#vienna-bratislava">vienna-bratislava</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#warsaw">warsaw</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#wroclaw">wroclaw</a></li>
+</ul>
+<p class="p1"><strong>Oceania</strong></p>
+<ul>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#adelaide">adelaide</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#auckland">auckland</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#brisbane">brisbane</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#canberra">canberra</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#darwin">darwin</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#jakarta">jakarta</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#melbourne">melbourne</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#perth">perth</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#sydney">sydney</a></li>
+</ul>
+<p class="p1"><strong>Middle East</strong></p>
+<ul>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#as-suwayda">as-suwayda</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#baghdad">baghdad</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#damascus">damascus</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#dubai-abu-dhabi">dubai-abu-dhabi</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#kabul">kabul</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#riyadh">riyadh</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#tel-aviv">tel-aviv</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#yerevan">yerevan</a></li>
+</ul>
+<p class="p1"><strong>South America</strong></p>
+<ul>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#bogota">bogota</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#brasilia-brazil">brasilia-brazil</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#buenos-aires">buenos-aires</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#campo-grande">campo-grande</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#caracas">caracas</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#cartagena">cartagena</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#cobija-bolivia">cobija-bolivia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#cochabamba-bolivia">cochabamba-bolivia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#curitiba-brazil">curitiba-brazil</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#lapaz-bolivia">lapaz-bolivia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#lima">lima</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#medellin">medellin</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#oruro-bolivia">oruro-bolivia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#porto-alegre">porto-alegre</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#potosi-bolivia">potosi-bolivia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#quito-ecuador">quito-ecuador</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#rio-de-janeiro">rio-de-janeiro</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#santacruz-bolivia">santacruz-bolivia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#santiago">santiago</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#sao-paulo">sao-paulo</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#sucre-bolivia">sucre-bolivia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#tarija-bolivia">tarija-bolivia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#trinidad-bolivia">trinidad-bolivia</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#trinidad-tobago">trinidad-tobago</a></li>
+</ul>
+<p class="p1"><strong>Africa</strong></p>
+<ul>
+<li><a href="http://bdon.org/cad/#abuja">abuja</a></li>
+<li><a href="http://bdon.org/cad/#addis-abeba">addis-abeba</a></li>
+<li><a href="http://bdon.org/cad/#bejaia">bejaia</a></li>
+<li><a href="http://bdon.org/cad/#cairo">cairo</a></li>
+<li><a href="http://bdon.org/cad/#dakar">dakar</a></li>
+<li><a href="http://bdon.org/cad/#dar-es-salaam">dar-es-salaam</a></li>
+<li><a href="http://bdon.org/cad/#harare">harare</a></li>
+<li><a href="http://bdon.org/cad/#johannesburg">johannesburg</a></li>
+<li><a href="http://bdon.org/cad/#kampala">kampala</a></li>
+<li><a href="http://bdon.org/cad/#kigali">kigali</a></li>
+<li><a href="http://bdon.org/cad/#lagos">lagos</a></li>
+<li><a href="http://bdon.org/cad/#mogadishu">mogadishu</a></li>
+<li><a href="http://bdon.org/cad/#nairobi">nairobi</a></li>
+</ul>
+<p class="p1"><strong>Asia</strong></p>
+<ul>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#almaty">almaty</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#ankara">ankara</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#bangkok">bangkok</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#batticaloa">batticaloa</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#beijing">beijing</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#bengaluru">bengaluru</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#chelyabinsk">chelyabinsk</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#chengdu">chengdu</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#chennai">chennai</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#chongqing">chongqing</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#colombo">colombo</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#dhaka">dhaka</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#dharamshala">dharamshala</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#dushanbe">dushanbe</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#hangzhou">hangzhou</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#hiroshima">hiroshima</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#hong-kong">hong-kong</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#islamabad">islamabad</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#karachi">karachi</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#kathmandu">kathmandu</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#kolkata">kolkata</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#kuala-lumpur">kuala-lumpur</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#lahore">lahore</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#manila">manila</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#mumbai">mumbai</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#nazareth">nazareth</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#new-delhi">new-delhi</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#osaka-kyoto">osaka-kyoto</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#perm">perm</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#pyongyang">pyongyang</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#rangoon">rangoon</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#samarkand">samarkand</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#seoul">seoul</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#shanghai">shanghai</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#siem-reap">siem-reap</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#singapore">singapore</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#taipei">taipei</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#tehran">tehran</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#tokyo">tokyo</a></li>
+<li><a style="font-size: 14px;" href="http://bdon.org/cad/#tyumen">tyumen</a></li>
+</ul>
