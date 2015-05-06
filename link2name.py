@@ -1,0 +1,10 @@
+import os
+f=open('cityresult.txt')
+content=f.readlines()
+f.close()
+print(content)
+citynames=map(lambda http:http.split("/")[-1].split(".")[0]+"\n",content)
+print(citynames)
+ff=open('cityname.txt','w')
+ff.writelines(citynames)
+ff.close()
